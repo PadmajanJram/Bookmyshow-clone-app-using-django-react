@@ -1,4 +1,6 @@
 #SHOW MAN
+
+
 This is a full-stack project built with Django and React for a movie booking site. In this application, users can browse movies, book tickets, and admins can manage movies and bookings.
 
 Features

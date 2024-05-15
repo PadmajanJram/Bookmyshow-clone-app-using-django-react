@@ -1,0 +1,45 @@
+.bookings-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .bookings-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333; /* Dark gray color */
+  }
+  
+  .no-bookings {
+    font-style: italic;
+    color: #666; /* Medium gray color */
+  }
+  
+  .bookings-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .booking-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f9f9f9; /* Light gray background color */
+  }
+  
+  .movie-name {
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: #007bff; /* Blue color */
+  }
+  
+  .booking-id,
+  .booking-date,
+  .show-time,
+  .number-of-tickets,
+  .total-price {
+    margin-bottom: 5px;
+    color: #333; /* Dark gray color */
+  }
+  
